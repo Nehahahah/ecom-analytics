@@ -1,4 +1,5 @@
 **GADA Electronics Sales Dashboard**
+
 This Power BI analytics project provides comprehensive insights into GADA Electronics' sales performance through an interactive dashboard featuring multiple visualization components.
 
 **Key Metrics Overview**
